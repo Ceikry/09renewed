@@ -1,0 +1,3496 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<list>
+	<npcDrop>
+		<npcs>
+			<int>1</int> <!-- man -->
+			<int>2</int> <!-- man -->
+			<int>3</int> <!-- man -->
+			<int>7877</int> <!-- man -->
+			<int>7878</int> <!-- man -->
+			<int>7875</int> <!-- man -->
+			<int>4</int> <!-- woman -->
+			<int>5</int> <!-- woman -->
+			<int>6</int> <!-- woman -->
+		</npcs>
+		<alwaysDrops>
+			<item>
+				<itemId>526</itemId> <!-- bones -->
+				<itemAmount>1</itemAmount>
+			</item>
+		</alwaysDrops>
+		<commonDrops>
+			<item>
+				<itemId>995</itemId> <!-- coins -->
+				<itemAmount>40</itemAmount>
+			</item>
+			<item>
+				<itemId>199</itemId> <!-- grimy guam -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>877</itemId> <!-- bronze bolts -->
+				<itemAmount>12</itemAmount>
+			</item>
+		</commonDrops>
+		<uncommonDrops>
+			<item>
+				<itemId>554</itemId> <!-- fire rune -->
+				<itemAmount>6</itemAmount>
+			</item>
+			<item>
+				<itemId>555</itemId> <!-- water rune -->
+				<itemAmount>7</itemAmount>
+			</item>
+			<item>
+				<itemId>557</itemId> <!-- earth rune -->
+				<itemAmount>4</itemAmount>
+			</item>
+			<item>
+				<itemId>558</itemId> <!-- mind rune -->
+				<itemAmount>9</itemAmount>
+			</item>
+			<item>
+				<itemId>882</itemId> <!-- bronze arrows -->
+				<itemAmount>7</itemAmount>
+			</item>
+			<item>
+				<itemId>201</itemId> <!-- grimy marrentil -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>203</itemId> <!-- grimy tarromin -->
+				<itemAmount>1</itemAmount>
+			</item>			
+			<item>
+				<itemId>205</itemId> <!-- grimy harralander -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>207</itemId> <!-- grimy ranarr -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>213</itemId> <!-- grimy kwuarm -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>209</itemId> <!-- grimy irit -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>211</itemId> <!-- grimy avantoe -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>1203</itemId> <!-- iron dagger -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>1139</itemId> <!-- bronze med helm -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>1965</itemId> <!-- cabbage -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>1438</itemId> <!-- air talisman -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>1440</itemId> <!-- earth talisman -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>313</itemId> <!-- fishing bait -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>436</itemId> <!-- copper ore -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>438</itemId> <!-- tin ore -->
+				<itemAmount>1</itemAmount>
+			</item>
+		</uncommonDrops>
+		<rareDrops>
+			<item>
+				<itemId>562</itemId> <!-- chaos rune -->
+				<itemAmount>2</itemAmount>
+			</item>
+			<item>
+				<itemId>559</itemId> <!-- body rune -->
+				<itemAmount>7</itemAmount>
+			</item>
+			<item>
+				<itemId>215</itemId> <!-- grimy cadantine -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>217</itemId> <!-- grimy dwarf weed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>2485</itemId> <!-- grimy lantadyme -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>1381</itemId> <!-- staff of air -->
+				<itemAmount>1</itemAmount>
+			</item>
+		</rareDrops>
+	</npcDrop>
+	<npcDrop>
+		<npcs>
+			<int>81</int> <!-- cow -->
+			<int>397</int> <!-- cow -->
+		</npcs>
+		<alwaysDrops>
+			<item>
+				<itemId>526</itemId> <!-- bones -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>2132</itemId> <!-- raw beef -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>1739</itemId> <!-- cowhide -->
+				<itemAmount>1</itemAmount>
+			</item>
+		</alwaysDrops>
+	</npcDrop>
+	<npcDrop>
+		<npcs>
+			<int>41</int> <!-- chicken -->
+		</npcs>
+		<alwaysDrops>
+			<item>
+				<itemId>526</itemId> <!-- bones -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>2138</itemId> <!-- raw chicken -->
+				<itemAmount>1</itemAmount>
+			</item>
+		</alwaysDrops>
+		<commonDrops>
+			<item>
+				<itemId>314</itemId> <!-- feather -->
+				<itemAmount>5</itemAmount>
+			</item>
+			<item>
+				<itemId>314</itemId> <!-- feather -->
+				<itemAmount>10</itemAmount>
+			</item>
+			<item>
+				<itemId>314</itemId> <!-- feather -->
+				<itemAmount>15</itemAmount>
+			</item>
+		</commonDrops>
+	</npcDrop>
+	<npcDrop>
+		<npcs>
+			<int>7</int> <!-- farmer -->
+		</npcs>
+		<alwaysDrops>
+			<item>
+				<itemId>526</itemId> <!-- bones -->
+				<itemAmount>1</itemAmount>
+			</item>
+		</alwaysDrops>
+		<commonDrops>
+			<item>
+				<itemId>5341</itemId> <!-- rake -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5329</itemId> <!-- secateurs -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5324</itemId> <!-- cabbage seed -->
+				<itemAmount>4</itemAmount>
+			</item>
+			<item>
+				<itemId>5323</itemId> <!-- strawberry seed -->
+				<itemAmount>4</itemAmount>
+			</item>
+			<item>
+				<itemId>5318</itemId> <!-- potato seed -->
+				<itemAmount>4</itemAmount>
+			</item>
+			<item>
+				<itemId>5322</itemId> <!-- tomato seed -->
+				<itemAmount>4</itemAmount>
+			</item>
+			<item>
+				<itemId>5318</itemId> <!-- watermelon seed -->
+				<itemAmount>5321</itemAmount>
+			</item>
+			<item>
+				<itemId>5318</itemId> <!-- evil turnip seed -->
+				<itemAmount>12148</itemAmount>
+			</item>
+			<item>
+				<itemId>1965</itemId> <!-- cabbage -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>313</itemId> <!-- fishing bait -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>562</itemId> <!-- chaos rune-->
+				<itemAmount>2</itemAmount>
+			</item>
+			<item>
+				<itemId>554</itemId> <!-- fire rune -->
+				<itemAmount>6</itemAmount>
+			</item>
+			<item>
+				<itemId>556</itemId> <!-- air rune -->
+				<itemAmount>4</itemAmount>
+			</item>
+			<item>
+				<itemId>558</itemId> <!-- mind rune -->
+				<itemAmount>9</itemAmount>
+			</item>
+			<item>
+				<itemId>1440</itemId> <!-- earth talisman -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>882</itemId> <!-- bronze arrow -->
+				<itemAmount>7</itemAmount>
+			</item>
+			<item>
+				<itemId>877</itemId> <!-- bronze bolts -->
+				<itemAmount>12</itemAmount>
+			</item>
+			<item>
+				<itemId>1139</itemId> <!-- bronze med helm -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>1203</itemId> <!-- iron dagger -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>436</itemId> <!-- copper ore -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5320</itemId> <!-- sweetcorn seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>217</itemId> <!-- grimy dwarf weed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5319</itemId> <!-- onion seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>995</itemId> <!-- coins -->
+				<itemAmount>15</itemAmount>
+			</item>
+		</commonDrops>
+		<uncommonDrops>
+		</uncommonDrops>
+		<rareDrops>
+			<item>
+				<itemId>5345</itemId> <!-- gardening boots -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5340</itemId> <!-- watering can -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>207</itemId> <!-- grimy ranarr -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>213</itemId> <!-- grimy kwuarm -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>211</itemId> <!-- grimy avantoe -->
+				<itemAmount>1</itemAmount>
+			</item>
+		</rareDrops>
+	</npcDrop>
+	<npcDrop>
+		<npcs>
+			<int>78</int> <!-- giant bat -->
+		</npcs>
+		<alwaysDrops>
+			<item>
+				<itemId>530</itemId> <!-- bat bones -->
+				<itemAmount>1</itemAmount>
+			</item>
+		</alwaysDrops>
+	</npcDrop>
+	<npcDrop>
+		<npcs>
+			<int>89</int> <!-- unicorn -->
+		</npcs>
+		<alwaysDrops>
+			<item>
+				<itemId>526</itemId> <!-- bones -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>237</itemId> <!-- unicorn horn -->
+				<itemAmount>1</itemAmount>
+			</item>
+		</alwaysDrops>
+	</npcDrop>
+	<npcDrop>
+		<npcs>
+			<int>105</int> <!-- grizzly bear -->
+		</npcs>
+		<alwaysDrops>
+			<item>
+				<itemId>526</itemId> <!-- bones -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>948</itemId> <!-- bear fur -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>2136</itemId> <!-- raw bear meat -->
+				<itemAmount>1</itemAmount>
+			</item>
+		</alwaysDrops>
+	</npcDrop>
+	<npcDrop>
+		<npcs>
+			<int>7966</int> <!-- chaos druid -->
+			<int>7105</int> <!-- chaos druid -->
+			<int>2547</int> <!-- chaos druid -->
+			<int>181</int> <!-- chaos druid -->
+		</npcs>
+		<alwaysDrops>
+			<item>
+				<itemId>526</itemId> <!-- bones -->
+				<itemAmount>1</itemAmount>
+			</item>
+		</alwaysDrops>
+		<commonDrops>
+			<item>
+				<itemId>200</itemId> <!-- grimy guam -->
+				<itemAmount>-2</itemAmount>
+			</item>
+			<item>
+				<itemId>202</itemId> <!-- grimy marrentill -->
+				<itemAmount>-2</itemAmount>
+			</item>
+			<item>
+				<itemId>204</itemId> <!-- grimy tarromin -->
+				<itemAmount>-2</itemAmount>
+			</item>
+			<item>
+				<itemId>206</itemId> <!-- grimy haaralander -->
+				<itemAmount>-2</itemAmount>
+			</item>
+			<item>
+				<itemId>485</itemId> <!-- coins -->
+				<itemAmount>1000</itemAmount>
+			</item>
+			<item>
+				<itemId>227</itemId> <!-- waterfilled vial -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>562</itemId> <!-- law rune -->
+				<itemAmount>2</itemAmount>
+			</item>
+			<item>
+				<itemId>559</itemId> <!-- body rune -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>556</itemId> <!-- air rune -->
+				<itemAmount>36</itemAmount>
+			</item>
+			<item>
+				<itemId>557</itemId> <!-- earth rune -->
+				<itemAmount>9</itemAmount>
+			</item>
+			<item>
+				<itemId>558</itemId> <!-- mind rune -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>9142</itemId> <!-- mithril bolts -->
+				<itemAmount>12</itemAmount>
+			</item>
+			<item>
+				<itemId>538</itemId> <!-- druid's robe -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>540</itemId> <!-- druid's robe -->
+				<itemAmount>1</itemAmount>
+			</item>
+			
+		</commonDrops>
+		<uncommonDrops>
+			<item>
+				<itemId>210</itemId> <!-- grimy irit -->-
+				<itemAmount>-2</itemAmount>
+			</item>
+			<item>
+				<itemId>212</itemId> <!-- grimy avantoe -->-
+				<itemAmount>-2</itemAmount>
+			</item>
+			<item>
+				<itemId>216</itemId> <!-- grimy cadantine -->-
+				<itemAmount>-2</itemAmount>
+			</item>
+			<item>
+				<itemId>214</itemId> <!-- grimy kwuarm -->-
+				<itemAmount>-2</itemAmount>
+			</item>
+			<item>
+				<itemId>218</itemId> <!-- grimy dwarf weed -->-
+				<itemAmount>-2</itemAmount>
+			</item>
+			<item>
+				<itemId>208</itemId> <!-- grimy rannaar -->-
+				<itemAmount>2</itemAmount>
+			</item>
+			<item>
+				<itemId>2486</itemId> <!-- grimy lantadyme -->-
+				<itemAmount>2</itemAmount>
+			</item>
+			<item>
+				<itemId>561</itemId> <!-- nature rune -->-
+				<itemAmount>3</itemAmount>
+			</item>
+			<item>
+				<itemId>1291</itemId> <!-- bronze longsword-->-
+				<itemAmount>1</itemAmount>
+			</item>
+		</uncommonDrops>
+		<rareDrops>
+		<item>
+				<itemId>219</itemId> <!-- grimy torstol -->-
+				<itemAmount>-2</itemAmount>
+			</item>
+			<item>
+				<itemId>1627</itemId> <!-- uncut jade -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>231</itemId> <!-- snape grass -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>1594</itemId> <!-- unholy mould -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>1452</itemId> <!-- cosmic talisman -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>1137</itemId> <!-- iron med helm -->
+				<itemAmount>1</itemAmount>
+			</item>
+		</rareDrops>
+	</npcDrop>
+	<npcDrop>
+		<npcs>
+			<int>127</int> <!-- magic axe -->
+		</npcs>
+		<alwaysDrops>
+			<item>
+				<itemId>1363</itemId> <!-- iron battleaxe -->
+				<itemAmount>1</itemAmount>
+			</item>
+		</alwaysDrops>
+	</npcDrop>
+	<npcDrop>
+		<npcs>
+			<int>1594</int> <!-- wild dog -->
+		</npcs>
+		<alwaysDrops>
+			<item>
+				<itemId>526</itemId> <!-- bones -->
+				<itemAmount>1</itemAmount>
+			</item>
+		</alwaysDrops>
+	</npcDrop>
+	<npcDrop>
+		<npcs>
+			<int>4688</int> <!-- moss giant -->
+		</npcs>
+		<alwaysDrops>
+			<item>
+				<itemId>532</itemId> <!-- big bones -->
+				<itemAmount>1</itemAmount>
+			</item>
+		</alwaysDrops>
+		<commonDrops>
+			<item>
+				<itemId>199</itemId> <!-- grimy guam -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>201</itemId> <!-- grimy marrentill -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>203</itemId> <!-- grimy tarromin -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>205</itemId> <!-- grimy harralander -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>1389</itemId> <!-- magic staff -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>1243</itemId> <!-- mithril spear -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>1285</itemId> <!-- mithril sword -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>886</itemId> <!-- steel arrow -->
+				<itemAmount>30</itemAmount>
+			</item>
+			<item>
+				<itemId>884</itemId> <!-- iron arrow -->
+				<itemAmount>15</itemAmount>
+			</item>
+			<item>
+				<itemId>1165</itemId> <!-- black full helm -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>1179</itemId> <!-- black sq shield -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>1141</itemId> <!-- steel med helm -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>556</itemId> <!-- air rune -->
+				<itemAmount>18</itemAmount>
+			</item>
+			<item>
+				<itemId>564</itemId> <!-- cosmic rune -->
+				<itemAmount>3</itemAmount>
+			</item>
+			<item>
+				<itemId>555</itemId> <!-- earth rune -->
+				<itemAmount>27</itemAmount>
+			</item>
+			<item>
+				<itemId>561</itemId> <!-- nature rune -->
+				<itemAmount>16</itemAmount>
+			</item>
+			<item>
+				<itemId>5323</itemId> <!-- strawberry seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5311</itemId> <!-- wildblood seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5293</itemId> <!-- tarromin seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5294</itemId> <!-- harralander seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5104</itemId> <!-- jangerberry seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5292</itemId> <!-- marrentill seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>995</itemId> <!-- coins -->
+				<itemAmount>500</itemAmount>
+			</item>
+			<item>
+				<itemId>2353</itemId> <!-- steel bar -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>7869</itemId> <!-- moss giant bone -->
+				<itemAmount>1</itemAmount>
+			</item>
+		</commonDrops>
+		<uncommonDrops>
+			<item>
+				<itemId>1193</itemId> <!-- steel kiteshield -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>563</itemId> <!-- law runes -->
+				<itemAmount>6</itemAmount>
+			</item>
+			<item>
+				<itemId>565</itemId> <!-- blood runes -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>562</itemId> <!-- chaos runes -->
+				<itemAmount>7</itemAmount>
+			</item>
+			<item>
+				<itemId>5281</itemId> <!-- belladonna seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>12176</itemId> <!-- spirit weed seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5100</itemId> <!-- limpwurt seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5296</itemId> <!-- toadflax seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5105</itemId> <!-- whiteberry seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5282</itemId> <!-- bittercap mushroom spore -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>4205</itemId> <!-- consecration seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>453</itemId> <!-- coal -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>1969</itemId> <!-- spinach roll -->
+				<itemAmount>1</itemAmount>
+			</item>
+		</uncommonDrops>
+		<rareDrops>
+			<item>
+				<itemId>1287</itemId> <!-- adamant sword -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>560</itemId> <!-- death rune -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5298</itemId> <!-- avantoe seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5280</itemId> <!-- cactus seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5297</itemId> <!-- irit seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5299</itemId> <!-- kwuarm seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5106</itemId> <!-- poison ivy seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5295</itemId> <!-- ranarr seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5301</itemId> <!-- cadantine seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5302</itemId> <!-- lantadyme seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5321</itemId> <!-- watermelon seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>5303</itemId> <!-- dwarf weed seed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>211</itemId> <!-- grimy avantoe -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>215</itemId> <!-- grimy cadantine -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>217</itemId> <!-- grimy dwarf weed -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>209</itemId> <!-- grimy irit -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>213</itemId> <!-- grimy kwuarm -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>2486</itemId> <!-- grimy lantadyme -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>207</itemId> <!-- grimy ranarr -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>1442</itemId> <!-- fire talisman -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>10977</itemId> <!-- curved bone -->
+				<itemAmount>1</itemAmount>
+			</item>
+			<item>
+				<itemId>10976</itemId> <!-- long bone -->
+				<itemAmount>1</itemAmount>
+			</item>
+		</rareDrops>
+	</npcDrop>
+<npcDrop>
+<npcs>
+<int>86</int>
+<int>87</int>
+<int>446</int>
+<int>950</int>
+<int>4395</int>
+<int>4922</int>
+<int>4923</int>
+<int>4924</int>
+<int>4925</int>
+<int>4926</int>
+<int>4927</int>
+<int>4942</int>
+<int>4943</int>
+<int>4944</int>
+<int>4945</int>
+</npcs>
+<alwaysDrops>
+<item>
+<itemId>526</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>2134</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</alwaysDrops>
+</npcDrop>
+<npcDrop>
+<npcs>
+<int>978</int>
+<int>3647</int>
+<int>3662</int>
+<int>4938</int>
+<int>4939</int>
+<int>4940</int>
+<int>4941</int>
+</npcs>
+<alwaysDrops>
+<item>
+<itemId>526</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</alwaysDrops>
+</npcDrop>
+  <npcDrop>
+    <npcs>
+      <int>708</int>
+    </npcs>
+    <alwaysDrops>
+      <item>
+        <itemId>592</itemId>
+        <itemAmount>1</itemAmount>
+      </item>
+    </alwaysDrops>
+    <uncommonDrops>
+      <item>
+        <itemId>1470</itemId>
+        <itemAmount>1</itemAmount>
+      </item>
+      <item>
+        <itemId>1472</itemId>
+        <itemAmount>1</itemAmount>
+      </item>
+      <item>
+        <itemId>1474</itemId>
+        <itemAmount>1</itemAmount>
+      </item>
+      <item>
+        <itemId>1476</itemId>
+        <itemAmount>1</itemAmount>
+      </item>
+      <item>
+        <itemId>554</itemId>
+        <itemAmount>5</itemAmount>
+      </item>
+      <item>
+        <itemId>555</itemId>
+        <itemAmount>5</itemAmount>
+      </item>
+      <item>
+        <itemId>556</itemId>
+        <itemAmount>5</itemAmount>
+      </item>
+      <item>
+        <itemId>557</itemId>
+        <itemAmount>5</itemAmount>
+      </item>
+      <item>
+        <itemId>558</itemId>
+        <itemAmount>5</itemAmount>
+      </item>
+      <item>
+        <itemId>559</itemId>
+        <itemAmount>5</itemAmount>
+      </item>
+      <item>
+        <itemId>199</itemId>
+        <itemAmount>1</itemAmount>
+      </item>
+      <item>
+        <itemId>1949</itemId>
+        <itemAmount>1</itemAmount>
+      </item>
+      <item>
+        <itemId>577</itemId>
+        <itemAmount>1</itemAmount>
+      </item>
+      <item>
+        <itemId>579</itemId>
+        <itemAmount>1</itemAmount>
+      </item>
+      <item>
+        <itemId>434</itemId>
+        <itemAmount>1</itemAmount>
+      </item>
+      <item>
+        <itemId>2310</itemId>
+        <itemAmount>2</itemAmount>
+      </item>
+      <item>
+        <itemId>1965</itemId>
+        <itemAmount>1</itemAmount>
+      </item>
+      <item>
+        <itemId>956</itemId>
+        <itemAmount>1</itemAmount>
+      </item>
+      <item>
+        <itemId>2146</itemId>
+        <itemAmount>1</itemAmount>
+      </item>
+      <item>
+        <itemId>195</itemId>
+        <itemAmount>1</itemAmount>
+      </item>
+    </uncommonDrops>
+  </npcDrop>
+<npcDrop>
+<npcs>
+<int>172</int>
+</npcs>
+<alwaysDrops>
+<item>
+<itemId>526</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</alwaysDrops>
+<commonDrops>
+<item>
+<itemId>995</itemId>
+<itemAmount>13</itemAmount>
+</item>
+<item>
+<itemId>557</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>557</itemId>
+<itemAmount>18</itemAmount>
+</item>
+<item>
+<itemId>557</itemId>
+<itemAmount>36</itemAmount>
+</item>
+<item>
+<itemId>556</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>556</itemId>
+<itemAmount>18</itemAmount>
+</item>
+<item>
+<itemId>555</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>555</itemId>
+<itemAmount>18</itemAmount>
+</item>
+<item>
+<itemId>554</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>554</itemId>
+<itemAmount>18</itemAmount>
+</item>
+<item>
+<itemId>558</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>558</itemId>
+<itemAmount>18</itemAmount>
+</item>
+<item>
+<itemId>559</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>559</itemId>
+<itemAmount>18</itemAmount>
+</item>
+<item>
+<itemId>562</itemId>
+<itemAmount>4</itemAmount>
+</item>
+<item>
+<itemId>562</itemId>
+<itemAmount>5</itemAmount>
+</item>
+<item>
+<itemId>561</itemId>
+<itemAmount>4</itemAmount>
+</item>
+<item>
+<itemId>563</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>565</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>565</itemId>
+<itemAmount>4</itemAmount>
+</item>
+<item>
+<itemId>1379</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1381</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>636</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>581</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1015</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1017</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1442</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</commonDrops>
+<uncommonDrops>
+<item>
+<itemId>564</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>564</itemId>
+<itemAmount>4</itemAmount>
+</item>
+<item>
+<itemId>1444</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</uncommonDrops>
+<rareDrops>
+<item>
+<itemId>1384</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>1440</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1448</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</rareDrops>
+</npcDrop>
+<npcDrop>
+<npcs>
+<int>172</int>
+<int>174</int>
+<int>3242</int>
+<int>3243</int>
+<int>3244</int>
+<int>3245</int>
+<int>4658</int>
+<int>4659</int>
+<int>4660</int>
+<int>4661</int>
+</npcs>
+<alwaysDrops>
+<item>
+<itemId>526</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</alwaysDrops>
+<commonDrops>
+<item>
+<itemId>556</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>556</itemId>
+<itemAmount>18</itemAmount>
+</item>
+<item>
+<itemId>557</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>557</itemId>
+<itemAmount>18</itemAmount>
+</item>
+<item>
+<itemId>557</itemId>
+<itemAmount>36</itemAmount>
+</item>
+<item>
+<itemId>554</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>554</itemId>
+<itemAmount>18</itemAmount>
+</item>
+<item>
+<itemId>555</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>555</itemId>
+<itemAmount>18</itemAmount>
+</item>
+<item>
+<itemId>562</itemId>
+<itemAmount>4</itemAmount>
+</item>
+<item>
+<itemId>562</itemId>
+<itemAmount>5</itemAmount>
+</item>
+<item>
+<itemId>558</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>558</itemId>
+<itemAmount>18</itemAmount>
+</item>
+<item>
+<itemId>559</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>559</itemId>
+<itemAmount>18</itemAmount>
+</item>
+<item>
+<itemId>1017</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>581</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1379</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>24</itemAmount>
+</item>
+<item>
+<itemId>1444</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</commonDrops>
+<uncommonDrops>
+<item>
+<itemId>565</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>565</itemId>
+<itemAmount>4</itemAmount>
+</item>
+<item>
+<itemId>561</itemId>
+<itemAmount>4</itemAmount>
+</item>
+<item>
+<itemId>563</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>563</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>563</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>1442</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1448</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</uncommonDrops>
+<rareDrops>
+<item>
+<itemId>1440</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>564</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>564</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>1381</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1383</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1015</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</rareDrops>
+</npcDrop>
+<npcDrop>
+<npcs>
+<int>9</int>
+<int>32</int>
+<int>206</int>
+<int>253</int>
+<int>254</int>
+<int>255</int>
+<int>256</int>
+<int>257</int>
+<int>296</int>
+<int>297</int>
+<int>298</int>
+<int>299</int>
+<int>837</int>
+<int>838</int>
+<int>1076</int>
+<int>1077</int>
+<int>1317</int>
+<int>2236</int>
+<int>2571</int>
+<int>2699</int>
+<int>2700</int>
+<int>2701</int>
+<int>2702</int>
+<int>2703</int>
+<int>3228</int>
+<int>3229</int>
+<int>3230</int>
+<int>3231</int>
+<int>3232</int>
+<int>3233</int>
+<int>3241</int>
+<int>3407</int>
+<int>3408</int>
+<int>5920</int>
+</npcs>
+<alwaysDrops>
+<item>
+<itemId>526</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</alwaysDrops>
+<commonDrops>
+<item>
+<itemId>1203</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>9140</itemId>
+<itemAmount>5</itemAmount>
+</item>
+<item>
+<itemId>882</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>882</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>886</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>886</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>886</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>886</itemId>
+<itemAmount>4</itemAmount>
+</item>
+<item>
+<itemId>886</itemId>
+<itemAmount>5</itemAmount>
+</item>
+<item>
+<itemId>556</itemId>
+<itemAmount>6</itemAmount>
+</item>
+<item>
+<itemId>557</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>554</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>5318</itemId>
+<itemAmount>4</itemAmount>
+</item>
+<item>
+<itemId>5319</itemId>
+<itemAmount>4</itemAmount>
+</item>
+<item>
+<itemId>5324</itemId>
+<itemAmount>4</itemAmount>
+</item>
+<item>
+<itemId>5322</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>25</itemAmount>
+</item>
+</commonDrops>
+<uncommonDrops>
+<item>
+<itemId>884</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>884</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>1446</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</uncommonDrops>
+<rareDrops>
+<item>
+<itemId>440</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>562</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>562</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>561</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>565</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5320</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>5323</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5321</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>1947</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</rareDrops>
+</npcDrop>
+<npcDrop>
+<npcs>
+<int>222</int>
+<int>6115</int>
+</npcs>
+<alwaysDrops>
+<item>
+<itemId>526</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</alwaysDrops>
+</npcDrop>
+<npcDrop>
+<npcs>
+<int>100</int>
+<int>101</int>
+<int>102</int>
+<int>444</int>
+<int>445</int>
+<int>1769</int>
+<int>1770</int>
+<int>1771</int>
+<int>1772</int>
+<int>1773</int>
+<int>1774</int>
+<int>1775</int>
+<int>1776</int>
+<int>2274</int>
+<int>2275</int>
+<int>2276</int>
+<int>2277</int>
+<int>2278</int>
+<int>2279</int>
+<int>2280</int>
+<int>2281</int>
+</npcs>
+<alwaysDrops>
+<item>
+<itemId>526</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</alwaysDrops>
+<commonDrops>
+<item>
+<itemId>1173</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>877</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>877</itemId>
+<itemAmount>4</itemAmount>
+</item>
+<item>
+<itemId>555</itemId>
+<itemAmount>6</itemAmount>
+</item>
+<item>
+<itemId>559</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>559</itemId>
+<itemAmount>7</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>24</itemAmount>
+</item>
+<item>
+<itemId>1351</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>2309</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</commonDrops>
+<uncommonDrops>
+<item>
+<itemId>882</itemId>
+<itemAmount>7</itemAmount>
+</item>
+<item>
+<itemId>877</itemId>
+<itemAmount>8</itemAmount>
+</item>
+<item>
+<itemId>1321</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1237</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>825</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1009</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1381</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>557</itemId>
+<itemAmount>4</itemAmount>
+</item>
+<item>
+<itemId>1438</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1917</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1007</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1949</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1987</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>288</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>199</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>201</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>203</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>205</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</uncommonDrops>
+<rareDrops>
+<item>
+<itemId>207</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>209</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>211</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>213</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>215</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>217</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>2485</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1189</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>562</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>561</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</rareDrops>
+</npcDrop>
+<npcDrop>
+<npcs>
+<int>117</int>
+<int>4689</int>
+<int>4690</int>
+<int>4691</int>
+<int>4692</int>
+<int>4693</int>
+</npcs>
+<alwaysDrops>
+<item>
+<itemId>532</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</alwaysDrops>
+<commonDrops>
+<item>
+<itemId>884</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>1203</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1153</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>555</itemId>
+<itemAmount>7</itemAmount>
+</item>
+<item>
+<itemId>554</itemId>
+<itemAmount>15</itemAmount>
+</item>
+<item>
+<itemId>564</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>199</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>201</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>203</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5322</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5322</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>5322</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>5318</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>5319</itemId>
+<itemAmount>4</itemAmount>
+</item>
+<item>
+<itemId>5323</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>5324</itemId>
+<itemAmount>4</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>8</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>15</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>38</itemAmount>
+</item>
+<item>
+<itemId>225</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1917</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</commonDrops>
+<uncommonDrops>
+<item>
+<itemId>886</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>886</itemId>
+<itemAmount>15</itemAmount>
+</item>
+<item>
+<itemId>1191</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1295</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>563</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>563</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>561</itemId>
+<itemAmount>6</itemAmount>
+</item>
+<item>
+<itemId>558</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>205</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>207</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>209</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>211</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5100</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>88</itemAmount>
+</item>
+<item>
+<itemId>1446</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1452</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</uncommonDrops>
+<rareDrops>
+<item>
+<itemId>1309</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>888</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>1207</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1119</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>890</itemId>
+<itemAmount>5</itemAmount>
+</item>
+<item>
+<itemId>560</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>562</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>213</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>217</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>215</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5321</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>5320</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>310</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>350</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>493</itemAmount>
+</item>
+<item>
+<itemId>10976</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>10977</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>985</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>987</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1617</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1619</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1621</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1623</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</rareDrops>
+</npcDrop>
+<npcDrop>
+<npcs>
+<int>2613</int>
+<int>2608</int>
+</npcs>
+<commonDrops>
+<item>
+<itemId>6529</itemId>
+<itemAmount>100</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>134</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>142</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>163</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>243</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>237</itemAmount>
+</item>
+</commonDrops>
+<uncommonDrops>
+<item>
+<itemId>167</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>161</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>654</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>253</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>432</itemAmount>
+</item>
+<item>
+<itemId>379</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>7054</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>12168</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>1619</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1623</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1621</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</uncommonDrops>
+<rareDrops>
+<item>
+<itemId>6528</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1393</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>6524</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>6568</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>1900</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>1532</itemAmount>
+</item>
+<item>
+<itemId>7936</itemId>
+<itemAmount>5</itemAmount>
+</item>
+<item>
+<itemId>9194</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>1617</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</rareDrops>
+</npcDrop>
+<npcDrop>
+<npcs>
+<int>2593</int>
+</npcs>
+<commonDrops>
+<item>
+<itemId>557</itemId>
+<itemAmount>24</itemAmount>
+</item>
+<item>
+<itemId>557</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>554</itemId>
+<itemAmount>23</itemAmount>
+</item>
+<item>
+<itemId>554</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>39</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>56</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>105</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>134</itemAmount>
+</item>
+</commonDrops>
+<uncommonDrops>
+<item>
+<itemId>1393</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1387</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>557</itemId>
+<itemAmount>80</itemAmount>
+</item>
+<item>
+<itemId>554</itemId>
+<itemAmount>80</itemAmount>
+</item>
+<item>
+<itemId>555</itemId>
+<itemAmount>23</itemAmount>
+</item>
+<item>
+<itemId>555</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>555</itemId>
+<itemAmount>80</itemAmount>
+</item>
+<item>
+<itemId>556</itemId>
+<itemAmount>80</itemAmount>
+</item>
+<item>
+<itemId>556</itemId>
+<itemAmount>23</itemAmount>
+</item>
+<item>
+<itemId>556</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>562</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>562</itemId>
+<itemAmount>5</itemAmount>
+</item>
+<item>
+<itemId>561</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>561</itemId>
+<itemAmount>8</itemAmount>
+</item>
+<item>
+<itemId>563</itemId>
+<itemAmount>5</itemAmount>
+</item>
+<item>
+<itemId>563</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>560</itemId>
+<itemAmount>6</itemAmount>
+</item>
+<item>
+<itemId>560</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>565</itemId>
+<itemAmount>5</itemAmount>
+</item>
+<item>
+<itemId>565</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>12168</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>524</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>434</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>243</itemAmount>
+</item>
+</uncommonDrops>
+<rareDrops>
+<item>
+<itemId>6568</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>6526</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>9194</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>700</itemAmount>
+</item>
+</rareDrops>
+</npcDrop>
+<npcDrop>
+<npcs>
+<int>2602</int>
+</npcs>
+<commonDrops>
+<item>
+<itemId>444</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>443</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>1762</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>2353</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1775</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>1780</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>1741</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>1738</itemId>
+<itemAmount>8</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>153</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>164</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>172</itemAmount>
+</item>
+</commonDrops>
+<uncommonDrops>
+<item>
+<itemId>149</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>161</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1780</itemId>
+<itemAmount>12</itemAmount>
+</item>
+<item>
+<itemId>1780</itemId>
+<itemAmount>6</itemAmount>
+</item>
+<item>
+<itemId>1391</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1744</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>379</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>534</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>435</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>452</itemAmount>
+</item>
+<item>
+<itemId>12168</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</uncommonDrops>
+<rareDrops>
+<item>
+<itemId>9194</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>6529</itemId>
+<itemAmount>800</itemAmount>
+</item>
+</rareDrops>
+</npcDrop>
+<npcDrop>
+<npcs>
+<int>941</int>
+</npcs>
+<alwaysDrops>
+<item>
+<itemId>1753</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>536</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</alwaysDrops>
+<commonDrops>
+<item>
+<itemId>1069</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1161</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1365</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1355</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>561</itemId>
+<itemAmount>15</itemAmount>
+</item>
+<item>
+<itemId>554</itemId>
+<itemAmount>37</itemAmount>
+</item>
+<item>
+<itemId>555</itemId>
+<itemAmount>75</itemAmount>
+</item>
+<item>
+<itemId>563</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>209</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>205</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>34</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>73</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>123</itemAmount>
+</item>
+<item>
+<itemId>365</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</commonDrops>
+<uncommonDrops>
+<item>
+<itemId>1197</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1243</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>561</itemId>
+<itemAmount>30</itemAmount>
+</item>
+<item>
+<itemId>555</itemId>
+<itemAmount>150</itemAmount>
+</item>
+<item>
+<itemId>199</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>211</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>215</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>201</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>203</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>207</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>213</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>217</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>440</itemAmount>
+</item>
+<item>
+<itemId>449</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</uncommonDrops>
+<rareDrops>
+<item>
+<itemId>1213</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>561</itemId>
+<itemAmount>75</itemAmount>
+</item>
+<item>
+<itemId>1249</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</rareDrops>
+</npcDrop>
+<npcDrop>
+<npcs>
+<int>55</int>
+</npcs>
+<alwaysDrops>
+<item>
+<itemId>1751</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>536</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</alwaysDrops>
+<commonDrops>
+<item>
+<itemId>1069</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1161</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1365</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1355</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>561</itemId>
+<itemAmount>15</itemAmount>
+</item>
+<item>
+<itemId>554</itemId>
+<itemAmount>37</itemAmount>
+</item>
+<item>
+<itemId>555</itemId>
+<itemAmount>75</itemAmount>
+</item>
+<item>
+<itemId>563</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>209</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>205</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>34</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>73</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>123</itemAmount>
+</item>
+<item>
+<itemId>365</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</commonDrops>
+<uncommonDrops>
+<item>
+<itemId>1197</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1243</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>561</itemId>
+<itemAmount>30</itemAmount>
+</item>
+<item>
+<itemId>555</itemId>
+<itemAmount>150</itemAmount>
+</item>
+<item>
+<itemId>199</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>211</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>215</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>201</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>203</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>207</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>213</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>217</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>440</itemAmount>
+</item>
+<item>
+<itemId>449</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</uncommonDrops>
+<rareDrops>
+<item>
+<itemId>1213</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>561</itemId>
+<itemAmount>75</itemAmount>
+</item>
+<item>
+<itemId>1249</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</rareDrops>
+</npcDrop>
+<npcDrop>
+<npcs>
+<int>90</int>
+<int>91</int>
+<int>92</int>
+<int>93</int>
+<int>94</int>
+</npcs>
+<alwaysDrops>
+<item>
+<itemId>526</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</alwaysDrops>
+<commonDrops>
+<item>
+<itemId>199</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>201</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>203</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>205</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1381</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1203</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1153</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>882</itemId>
+<itemAmount>11</itemAmount>
+</item>
+<item>
+<itemId>882</itemId>
+<itemAmount>4</itemAmount>
+</item>
+<item>
+<itemId>1420</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>884</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>556</itemId>
+<itemAmount>12</itemAmount>
+</item>
+<item>
+<itemId>556</itemId>
+<itemAmount>15</itemAmount>
+</item>
+<item>
+<itemId>555</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>555</itemId>
+<itemAmount>9</itemAmount>
+</item>
+<item>
+<itemId>557</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>554</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>558</itemId>
+<itemAmount>6</itemAmount>
+</item>
+<item>
+<itemId>562</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>561</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>13</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>23</itemAmount>
+</item>
+<item>
+<itemId>1947</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>438</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>440</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1442</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>2349</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</commonDrops>
+<uncommonDrops>
+<item>
+<itemId>207</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>209</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>211</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>213</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1349</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>884</itemId>
+<itemAmount>12</itemAmount>
+</item>
+<item>
+<itemId>884</itemId>
+<itemAmount>15</itemAmount>
+</item>
+<item>
+<itemId>1279</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>562</itemId>
+<itemAmount>8</itemAmount>
+</item>
+<item>
+<itemId>561</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>564</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>563</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>43</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>65</itemAmount>
+</item>
+</uncommonDrops>
+<rareDrops>
+<item>
+<itemId>215</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>217</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1323</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>886</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</rareDrops>
+</npcDrop>
+<npcDrop>
+<npcs>
+<int>7158</int>
+</npcs>
+<commonDrops>
+<item>
+<itemId>555</itemId>
+<itemAmount>5</itemAmount>
+</item>
+<item>
+<itemId>555</itemId>
+<itemAmount>8</itemAmount>
+</item>
+<item>
+<itemId>555</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>554</itemId>
+<itemAmount>5</itemAmount>
+</item>
+<item>
+<itemId>554</itemId>
+<itemAmount>11</itemAmount>
+</item>
+<item>
+<itemId>554</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>556</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>556</itemId>
+<itemAmount>5</itemAmount>
+</item>
+<item>
+<itemId>556</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>199</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>23</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>21</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>30</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>14</itemAmount>
+</item>
+<item>
+<itemId>454</itemId>
+<itemAmount>2</itemAmount>
+</item>
+</commonDrops>
+<uncommonDrops>
+<item>
+<itemId>1139</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1205</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>201</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>203</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>205</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>209</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>213</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>211</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>225</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1619</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1623</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</uncommonDrops>
+<rareDrops>
+<item>
+<itemId>207</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>217</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>215</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1617</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1621</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</rareDrops>
+</npcDrop>
+<npcDrop>
+<npcs>
+<int>7159</int>
+</npcs>
+<commonDrops>
+<item>
+<itemId>1165</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>201</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>203</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>199</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>205</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>209</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>454</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>564</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>564</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>561</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>561</itemId>
+<itemAmount>7</itemAmount>
+</item>
+<item>
+<itemId>562</itemId>
+<itemAmount>6</itemAmount>
+</item>
+<item>
+<itemId>562</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>557</itemId>
+<itemAmount>7</itemAmount>
+</item>
+<item>
+<itemId>557</itemId>
+<itemAmount>14</itemAmount>
+</item>
+<item>
+<itemId>557</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>1623</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</commonDrops>
+<uncommonDrops>
+<item>
+<itemId>1181</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>215</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>213</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>211</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>448</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>561</itemId>
+<itemAmount>14</itemAmount>
+</item>
+<item>
+<itemId>562</itemId>
+<itemAmount>11</itemAmount>
+</item>
+<item>
+<itemId>557</itemId>
+<itemAmount>22</itemAmount>
+</item>
+<item>
+<itemId>1619</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1621</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</uncommonDrops>
+<rareDrops>
+<item>
+<itemId>1391</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1121</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1333</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>217</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>207</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>561</itemId>
+<itemAmount>20</itemAmount>
+</item>
+<item>
+<itemId>562</itemId>
+<itemAmount>18</itemAmount>
+</item>
+<item>
+<itemId>1617</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</rareDrops>
+</npcDrop>
+<npcDrop>
+<npcs>
+<int>7160</int>
+</npcs>
+<commonDrops>
+<item>
+<itemId>560</itemId>
+<itemAmount>4</itemAmount>
+</item>
+<item>
+<itemId>563</itemId>
+<itemAmount>4</itemAmount>
+</item>
+<item>
+<itemId>554</itemId>
+<itemAmount>24</itemAmount>
+</item>
+<item>
+<itemId>554</itemId>
+<itemAmount>15</itemAmount>
+</item>
+<item>
+<itemId>554</itemId>
+<itemAmount>27</itemAmount>
+</item>
+<item>
+<itemId>554</itemId>
+<itemAmount>34</itemAmount>
+</item>
+<item>
+<itemId>565</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>5104</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5311</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5323</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5281</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5292</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5282</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5293</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5294</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>453</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1623</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>5</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>100</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>342</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>124</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>231</itemAmount>
+</item>
+</commonDrops>
+<uncommonDrops>
+<item>
+<itemId>1143</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1165</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1181</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>560</itemId>
+<itemAmount>12</itemAmount>
+</item>
+<item>
+<itemId>560</itemId>
+<itemAmount>15</itemAmount>
+</item>
+<item>
+<itemId>563</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>563</itemId>
+<itemAmount>17</itemAmount>
+</item>
+<item>
+<itemId>554</itemId>
+<itemAmount>60</itemAmount>
+</item>
+<item>
+<itemId>554</itemId>
+<itemAmount>54</itemAmount>
+</item>
+<item>
+<itemId>565</itemId>
+<itemAmount>12</itemAmount>
+</item>
+<item>
+<itemId>565</itemId>
+<itemAmount>7</itemAmount>
+</item>
+<item>
+<itemId>5100</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5298</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5280</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5301</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5297</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5299</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5106</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5105</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>448</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>450</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1619</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1621</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>243</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>542</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>355</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>764</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>453</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>332</itemAmount>
+</item>
+<item>
+<itemId>6004</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</uncommonDrops>
+<rareDrops>
+<item>
+<itemId>1333</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1185</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>2998</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5295</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>217</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5302</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>5321</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1617</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>1234</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>2314</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>3942</itemAmount>
+</item>
+</rareDrops>
+</npcDrop>
+<npcDrop>
+<npcs>
+<int>6363</int>
+<int>6364</int>
+</npcs>
+<commonDrops>
+<item>
+<itemId>1325</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1207</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>78</itemAmount>
+</item>
+</commonDrops>
+<uncommonDrops>
+<item>
+<itemId>1301</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>379</itemId>
+<itemAmount>3</itemAmount>
+</item>
+</uncommonDrops>
+<rareDrops>
+<item>
+<itemId>1213</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>1333</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</rareDrops>
+</npcDrop>
+<npcDrop>
+<npcs>
+<int>6365</int>
+<int>6366</int>
+</npcs>
+<alwaysDrops>
+<item>
+<itemId>526</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</alwaysDrops>
+<commonDrops>
+<item>
+<itemId>995</itemId>
+<itemAmount>79</itemAmount>
+</item>
+</commonDrops>
+<uncommonDrops>
+<item>
+<itemId>1778</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>849</itemId>
+<itemAmount>1</itemAmount>
+</item>
+<item>
+<itemId>886</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>888</itemId>
+<itemAmount>20</itemAmount>
+</item>
+</uncommonDrops>
+<rareDrops>
+<item>
+<itemId>861</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</rareDrops>
+</npcDrop>
+<npcDrop>
+<npcs>
+<int>6367</int>
+<int>6368</int>
+</npcs>
+<alwaysDrops>
+<item>
+<itemId>526</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</alwaysDrops>
+<commonDrops>
+<item>
+<itemId>555</itemId>
+<itemAmount>6</itemAmount>
+</item>
+<item>
+<itemId>555</itemId>
+<itemAmount>19</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>100</itemAmount>
+</item>
+</commonDrops>
+<uncommonDrops>
+<item>
+<itemId>561</itemId>
+<itemAmount>28</itemAmount>
+</item>
+<item>
+<itemId>563</itemId>
+<itemAmount>2</itemAmount>
+</item>
+</uncommonDrops>
+<rareDrops>
+<item>
+<itemId>565</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>245</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</rareDrops>
+</npcDrop>
+<npcDrop>
+<npcs>
+<int>6372</int>
+<int>6371</int>
+</npcs>
+<alwaysDrops>
+<item>
+<itemId>526</itemId>
+<itemAmount>1</itemAmount>
+</item>
+</alwaysDrops>
+<commonDrops>
+<item>
+<itemId>556</itemId>
+<itemAmount>5</itemAmount>
+</item>
+<item>
+<itemId>559</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>565</itemId>
+<itemAmount>4</itemAmount>
+</item>
+<item>
+<itemId>562</itemId>
+<itemAmount>4</itemAmount>
+</item>
+<item>
+<itemId>560</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>557</itemId>
+<itemAmount>6</itemAmount>
+</item>
+<item>
+<itemId>7936</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>7936</itemId>
+<itemAmount>10</itemAmount>
+</item>
+<item>
+<itemId>566</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>555</itemId>
+<itemAmount>5</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>42</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>32</itemAmount>
+</item>
+<item>
+<itemId>995</itemId>
+<itemAmount>52</itemAmount>
+</item>
+</commonDrops>
+<uncommonDrops>
+<item>
+<itemId>554</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>561</itemId>
+<itemAmount>2</itemAmount>
+</item>
+<item>
+<itemId>563</itemId>
+<itemAmount>3</itemAmount>
+</item>
+<item>
+<itemId>380</itemId>
+<itemAmount>3</itemAmount>
+</item>
+</uncommonDrops>
+</npcDrop>
+</list>
